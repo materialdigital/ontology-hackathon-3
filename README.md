@@ -12,8 +12,9 @@ Unter den Eichen 87
 Germany
 
 ## Agenda
-The agenda can be found in this repository, provided as a PDF file.
+The agenda can be found in this repository, provided as a [PDF file](https://github.com/materialdigital/ontology-hackathon-3/blob/main/Agenda%20Hackathon%202025.pdf).
 
 ## Minutes
 
 Minutes were taken in [this HackMD](https://hackmd.io/7iZRuIiERKCXAA7YoRWCEQ).
+Furthermore, there are some slides ([PMD_Hackathon_3_BAM_Berlin.pptx](https://github.com/materialdigital/ontology-hackathon-3/blob/main/PMD_Hackathon_3_BAM_Berlin.pptx)) provided in this repository.
