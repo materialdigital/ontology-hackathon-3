@@ -1,6 +1,6 @@
 # Ontology Hackathon No. 3
 
-This [repository](https://github.com/materialdigital/ontology-hackathon-3) is dedicated to the third ontology hackathon workshop performed in the frame of the joint project Platform MaterialDigital ([PMD](https://materialdigital.de/)) held at Bundesanstalt für Materialforschung und -prüfung (BAM), 2025-10-13 to 2025-10-15
+This [repository](https://github.com/materialdigital/ontology-hackathon-3) is dedicated to the third ontology hackathon workshop realized in the frame of the joint project Platform MaterialDigital ([PMD](https://materialdigital.de/)) held at Bundesanstalt für Materialforschung und -prüfung (BAM), 2025-10-13 to 2025-10-15.
 
 ## When & Where
 **October 13 to 15, 2025**
