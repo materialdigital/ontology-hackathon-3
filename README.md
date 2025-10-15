@@ -16,5 +16,5 @@ The agenda can be found in this repository, provided as a [PDF file](https://git
 
 ## Minutes
 
-Minutes were taken in [this HackMD][https://hackmd.io/7iZRuIiERKCXAA7YoRWCEQ](https://hackmd.io/@nd_ksvfTTISd9bwYNERWLw/BJFXq_5Tlx).
+Minutes were taken in [this HackMD](https://hackmd.io/@nd_ksvfTTISd9bwYNERWLw/BJFXq_5Tlx).
 Furthermore, there are some slides ([PMD_Hackathon_3_BAM_Berlin.pptx](https://github.com/materialdigital/ontology-hackathon-3/blob/main/PMD_Hackathon_3_BAM_Berlin.pptx)) provided in this repository.
